@@ -26,8 +26,22 @@ For this project, we will reproduce one of the biological experiments presented 
 * I attended my student connects meeting.
 
 ### 7/01/22
-* Halona, Gillina and I met to create our slides for the third summer student meeting. 
+* Halona, Gillin and I met to create our slides for the third summer student meeting. 
 * I attended the summer students meeting and presented the progress we have made with the project, our challenges and our next steps. 
 * I attended the journal club and was the scribbe (took notes of the presentation). 
+
+### 7/05/22
+* Worked remotley reading the artcle for my journal club presentation, writting some of the steps down for Pryianka's project and making sure our code was not missing anything. 
+
+### 7/06/22
+* Took a seminar on how to prepare our posters 
+* Met with Casey to reviwe our code 
+* Went to the Biology building and tested the hso files and fixed a few mistakes. 
+* Found out that the pippets only hold a max volume of 180 so we knew we had to do more loops to get the correct volume on each well. 
+
+### 7/07/22
+* Worked on my Journal Club presentation 
+* Met with Carla to discuss the paper for my journal club presentation 
+* Worked on fixing the code for the dilution plate (getting the correct volume and doing the correct amount of loops for each step in orther to get the desired final volume for every well).
 
 
