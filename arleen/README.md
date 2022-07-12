@@ -47,11 +47,11 @@ hkh
 * Met with Carla to discuss the paper for my journal club presentation 
 * Worked on fixing the code for the dilution plate (getting the correct volume and doing the correct amount of loops for each step in orther to get the desired final volume for every well).
 
-### 8/07/22
+### 7/08/22
 * Worked on our update presentation for the RPL update meeting and then attended the meeting. 
 * Practiced our presentation for journal club 
 
-### 11/07/22 
+### 7/11/22 
 * Worked with when to refil the tip box during the protocol and wrote the code for it. 
 * Had a mandotory mid-point meeting with Robert Schuch to talk about my experience during the intership, my project, etc. 
 * Tested the hso files on the Hudson and fixed any mistakes with the code. 
