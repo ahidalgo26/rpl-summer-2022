@@ -26,12 +26,12 @@ For this project, we will reproduce one of the biological experiments presented 
 * I attended my student connects meeting.
 
 ### 7/01/22
-* Halona, Gillin and I met to create our slides for the third summer student meeting. 
+* Halona, Gillian and I met to do our slides for the third summer student meeting. 
 * I attended the summer students meeting and presented the progress we have made with the project, our challenges and our next steps. 
 * I attended the journal club and was the scribbe (took notes of the presentation). 
 
 ### 7/05/22
-* Worked remotley reading the artcle for my journal club presentation, writting some of the steps down for Pryianka's project and making sure our code was not missing anything. 
+* Worked remotely reading the article for my journal club presentation, wrote some of the steps down for Pryianka's project and made sure our code was not missing anything. 
 
 ### 7/06/22
 * Took a seminar on how to prepare our posters 
@@ -44,4 +44,11 @@ For this project, we will reproduce one of the biological experiments presented 
 * Met with Carla to discuss the paper for my journal club presentation 
 * Worked on fixing the code for the dilution plate (getting the correct volume and doing the correct amount of loops for each step in orther to get the desired final volume for every well).
 
+### 8/07/22
+* Worked on our update presentation for the RPL update meeting and then attended the meeting. 
+* Practiced our presentation for journal club 
 
+### 11/07/22 
+* Worked with when to refil the tip box during the protocol and wrote the code for it. 
+* Had a mandotory mid-point meeting with Robert Schuch to talk about my experience during the intership, my project, etc. 
+* Tested the hso files on the Hudson and fixed any mistakes with the code. 
