@@ -29,6 +29,9 @@ For this project, we will reproduce one of the biological experiments presented 
 * Halona, Gillian and I met to do our slides for the third summer student meeting. 
 * I attended the summer students meeting and presented the progress we have made with the project, our challenges and our next steps. 
 * I attended the journal club and was the scribbe (took notes of the presentation). 
+* yo
+hkh
+
 
 ### 7/05/22
 * Worked remotely reading the article for my journal club presentation, wrote some of the steps down for Pryianka's project and made sure our code was not missing anything. 
