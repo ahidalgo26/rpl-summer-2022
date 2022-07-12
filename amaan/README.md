@@ -1,6 +1,6 @@
 # Amaan Khan
 
-**Project name:** Robotics Dashboard App   
+**Project name:** Robotics Dashboard Web App for Laboratory Monitoring   
 **Advisor:** Arvind Ramanathan   
 **Email:** amaan.khan@anl.gov   
 
@@ -47,3 +47,33 @@ In the secure biosystems lab, there are many robots that are in play. It is very
 * Made finishing touches on journal club presentation & met with Mariam to go over it
 * Weekly RPL Meeting
 * Gave journal club presentation
+
+## Tuesday, 7.5.22
+* Spent time debugging the ROS package/workspace error
+* Had weekly meeting with Carla and team
+
+## Wednesday 7.6.22
+* Fixed ROS package/workspace error
+* ran into few bugs w/ publisher and subscriber code so spent time on trying to fix them
+* Worked on personal website and resume on overleaf since Raf suggested we create a personal website and create resume on overleaf
+
+## Thursday, 7.7.22
+* Got publisher & subscriber successfully sending images b/w each other. 
+* Met with Rory and we discussed methods to send the data/images from subscriber to the dashboard. Decided to use a socket connection. Rory explained to me how that will work
+* Began writing code for the socket server
+
+## Friday, 7.8.22
+* Finished writing the socket server code and ran into a few bugs so spent time fixing them. There was one bug that I could not fix by the end of the day
+* Meeting at 11am w/ RPL group
+* Journal Club at 2pm
+
+## Monday, 7.11.22
+* Had weekly meeting with Carla and team - updated on progress
+* Socket server portion successfully works now. Fixed a bug where it kept saying that the connection/port is already in use. I had tried changing ports but it never fixed it. Finally realized that if I turned the 'debug' status to False in the Flask App it will fix the error. 
+* Dashboard app with the publisher and subscriber nodes now work successfully. Publisher sends frames to a ros topic, where the subscriber listens in on that topic, and when new frames arrive, it sends it through a socket server to the dashboard, which then displays the live video feed successfully.
+* Gave a live demo of my dashboard app working with the publisher + subscriber + socket-server to Rory and Dr. Ramanathan.
+* Rory and I discussed next steps to do.
+* **TODO**    
+  - [ ] Clean up code, comment/document code, rename files/packages to be better, remove unncessary files, and commit + push everything to your forked repo.    
+  - [ ] Create pull request w/ your forked repo   
+  - [ ] NEW Feature: Create a way for the dashboard to have a button that when you click, it sends a message to a ROS topic (e.g., "log_topic"), and then create a subscriber on the NUC that subscribes to that ros topic and prints out the messages whenever it receives it.   
